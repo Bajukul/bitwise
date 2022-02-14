@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log("There I am to do some serious shit")
+    console.log("I have just made some changes to  this file. Now let us see how to get this back to my visual studio code")
 }
