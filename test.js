@@ -1,8 +1,3 @@
-//loops
-//if statements
-//confirm and alerts
-//prompts
-//some string methods
-
-
-
+window.onload = () => {
+    console.log("There I am to do some serious shit")
+}
