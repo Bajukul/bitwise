@@ -12,6 +12,7 @@ window.onload = () => {
     initialArray.forEach(item => {
         if (item.Name !== "Stellah Tito") {
             console.log(item)
+            //There is nothing to change here
         }
     })
 
